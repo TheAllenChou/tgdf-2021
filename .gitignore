@@ -1,0 +1,12 @@
+slides/.~lock*
+.vs/
+Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+
+*.vsconfig
+*.csproj
+*.sln
+
